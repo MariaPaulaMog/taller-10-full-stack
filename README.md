@@ -16,12 +16,16 @@
 <img src= "./public/images/Punto 4.png" alt="Punto 4">
 
 <h2> Punto 5: Calculo de pago en Bolera con IF</h2>
+<img src= "./public/images/Punto 5.png" alt="Punto 5" alt="Punto 5">
 
 <h2> Punto 6: Usuario mayor o menor de edad</h2>
+<img src= "./public/images/Punto 6.png" alt="Punto 6" alt="Punto 6">
 
 <h2> Punto 7: Operaciones básicas entre 2 números</h2>
+<img src= "./public/images/Punto 7.png" alt="Punto 7" alt="Punto 7">
 
 <h2> Punto 8: Calculo de pago en Bolera con SWITCH</h2>
+<img src= "./public/images/Punto 8.png" alt="Punto 7" alt="Punto 8"> 
 
 <h2> Punto 9: Tabla del 0 al 30 WHILE</h2>
 
